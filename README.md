@@ -31,6 +31,7 @@ Open the Retail-Product-Detection.ipynb to better understand the training proces
 ### 5. Results
 
 In the "results" folder, you can find visualizations showcasing the model's performance on sample images from the dataset. These results demonstrate the model's ability to detect and count products effectively.
+Youtube: https://www.youtube.com/watch?v=BBzpd4iq4vE
 
 
 
