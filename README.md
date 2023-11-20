@@ -38,13 +38,21 @@ Youtube: https://www.youtube.com/watch?v=BBzpd4iq4vE
 
 NGUYEN DINH THANH SAN
 Major: Artificial Intelligence Contact:
+
 Linkedin: https://www.linkedin.com/in/thanh-san-a3b45b275
+
 Github: ThanhSan97
+
 Gmail: sannguyen0907@gmail.com - nguyendthanhsan@gmail.com
+
 NGUYEN HUYNH CHI KHANG
+
 Major: Artificial Intelligence Contact:
+
 Linkedin: linkedin.com/in/nguyen-huynh-chi-khang-607a3926a
+
 Github: Khang1405
+
 Gmail: chikhang1235202@gmail.com
 
 
