@@ -32,10 +32,5 @@ Open the Retail-Product-Detection.ipynb to better understand the training proces
 
 In the "results" folder, you can find visualizations showcasing the model's performance on sample images from the dataset. These results demonstrate the model's ability to detect and count products effectively.
 
-## III. Getting Started
 
-### Clone Repository
-
-- git clone https://github.com/ThanhSan97/Retail-Product-Detection-using-YOLOv8.git
-- cd your-repository
 
